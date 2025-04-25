@@ -14,6 +14,6 @@ The propulsion system consists of A2212 1000KV brushless motors driven by 30A Si
 
 This drone is designed for both performance and modularity, making it ideal for advanced robotics, autonomous navigation, and computer vision projects when paired with the Raspberry Pi.
 
-![image](https://github.com/user-attachments/assets/d17ec21f-2a91-42dd-b8c5-237acc47705f)
+![image](https://github.com/user-attachments/assets/f254e1fc-05b5-4980-9411-ce673dbfdcf3)
 
-Custom 
+Custom Built Receiver and Transitter module
