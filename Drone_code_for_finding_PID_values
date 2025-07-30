@@ -15,7 +15,7 @@
 #include <SPIFFS.h>
 
 
-const char* ssid = "Redmi 9 Prime";
+const char* ssid = "********";
 const char* password = "*********";
 
 
