@@ -16,7 +16,7 @@
 
 
 const char* ssid = "Redmi 9 Prime";
-const char* password = "redmi nine";
+const char* password = "*********";
 
 
 #define ESC_PIN1 5  // Front Right (CCW) ESC_PIN2 10
