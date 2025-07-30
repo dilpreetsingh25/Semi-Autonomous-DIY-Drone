@@ -1,5 +1,5 @@
 # Semi-Autonomous-DIY-Drone
-
+ 
 This custom drone features an ESP32-S3 microcontroller at its core, mounted on a leveled platform to allow a Raspberry Pi to be placed neatly below it. This mechanical arrangement helps optimize space and maintain a compact, balanced design while enabling the use of both microcontrollers for distributed processing.ESP32-S3 microcontroller, which handles real-time control and sensor data processing. 
 
 It integrates an MPU9250 IMU, combining a 3-axis accelerometer, gyroscope, and magnetometer to capture orientation and motion.
